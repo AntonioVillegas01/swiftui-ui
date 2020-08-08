@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>610569552185-v46kb42ov7fjeqlg6b1r3qgratk8gnv4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.610569552185-v46kb42ov7fjeqlg6b1r3qgratk8gnv4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApXhOEE0W2vpwwSZJPoaCFxaQS1m7SWBc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>610569552185</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.antoniolance.swiftuiapp</string>
+	<key>PROJECT_ID</key>
+	<string>designcode-swiftuicourse-cc926</string>
+	<key>STORAGE_BUCKET</key>
+	<string>designcode-swiftuicourse-cc926.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:610569552185:ios:047289b11758b9b183a8e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://designcode-swiftuicourse-cc926.firebaseio.com</string>
+</dict>
+</plist>

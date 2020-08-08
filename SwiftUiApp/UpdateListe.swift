@@ -59,6 +59,7 @@ struct UpdateListe: View {
                 Text("Add Update")
             },trailing: EditButton())
         }
+    .navigationViewStyle(StackNavigationViewStyle())
     }
 }
 

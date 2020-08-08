@@ -18,8 +18,13 @@ struct TabBar: View {
             }
             CourseList().tabItem{
                 Image(systemName: "rectangle.stack.fill")
-                Text("Courses")
+                Text("Cursos")
             }
+            Buttons().tabItem{
+                Image(systemName: "livephoto")
+                Text("Botones")
+            }
+            
         }
       //  .edgesIgnoringSafeArea(.top)
         
@@ -30,6 +35,7 @@ struct TabBar_Previews: PreviewProvider {
     static var previews: some View {
         Group {
             TabBar().previewDevice("iPhone 11 Pro Max")
+            .environmentObject(UserStore())
         }
     }
 }
